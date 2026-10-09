@@ -12,7 +12,7 @@
 <a href="https://github.com/Matin3tar">
 <img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=66C7FF" />
 </a>
-<a href="https://www.linkedin.com/in/matin3ta">
+<a href="https://www.linkedin.com/in/matin3tar">
 <img src="https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=66C7FF" />
 </a>
 <a href="https://t.me/Matin_3tar">
@@ -149,7 +149,7 @@ Interested in programming, technology, and building something meaningful?
 
 <br/>
 
-<a href="https://www.linkedin.com/in/matin3ta">
+<a href="https://www.linkedin.com/in/matin3tar">
 <img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0B1F46?style=for-the-badge&logo=linkedin&logoColor=66C7FF" />
 </a>
 
