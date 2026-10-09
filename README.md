@@ -1,78 +1,103 @@
 
 <div align="center">
 
-# `Matin 3tar`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A56,100:168BFF&height=200&section=header&text=MATIN%203TAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20SECURITY%20%7C%20AI&descAlignY=60&descSize=16" />
 
-### `> SYSTEM ACCESS GRANTED_`
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=39B8FF&center=true&vCenter=true&width=650&lines=Python+Developer;Web+Development;Cybersecurity+Enthusiast;Exploring+Artificial+Intelligence;Always+Learning.+Always+Building." alt="Animated typing" />
+</a>
 
-**Aspiring Developer | Gamer | Tech Enthusiast**
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36E5A0&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Learning+to+code...;Building+something+awesome.)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-102A56?style=for-the-badge&logo=kalilinux&logoColor=48BFFF" />
+<img src="https://img.shields.io/badge/INTEREST-ARTIFICIAL_INTELLIGENCE-102A56?style=for-the-badge&logo=ai&logoColor=48BFFF" />
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 / ABOUT ME`
 
-- 👨‍💻 I'm Matin, an aspiring developer.
-- 🌱 Currently learning **HTML, CSS and JavaScript**.
-- 🎮 Gamer who loves technology and creative projects.
-- 🚀 My goal: turn ideas into real projects.
-- ⚡ Motto: `Learn. Build. Improve. Repeat.`
+```python
+class Matin3tar:
+    name = "Matin 3tar"
+    languages = ["Python", "HTML", "CSS"]
+    interests = ["Cybersecurity", "Artificial Intelligence"]
+    mindset = "Learn • Build • Improve"
 
-## `> tech_stack`
-
-### Languages & Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
-</p>
-
-## `> featured_projects`
-
-| Project | Description |
-|---|---|
-| 🎮 Game Store | A gaming store website built with HTML and CSS |
-| 💍 Digital Invitation | An animated digital invitation website |
-| 🌐 My Portfolio | A personal website showcasing my work |
-
-> Replace these examples with your actual repositories as you publish them.
-
-## `> github_stats`
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
-
-## `> current_status`
-
-```text
-STATUS    : LEARNING
-FOCUS     : WEB DEVELOPMENT
-MODE      : BUILDING PROJECTS
-NEXT_STEP : LEVEL UP
+    def mission(self):
+        return "Turning ideas into technology."
 ```
+
+I'm interested in programming, web development, cybersecurity, and artificial intelligence.
+
+My goal is to keep learning, build useful projects, and improve my technical skills through practice.
+
+---
+
+## `02 / TECH STACK`
 
 <div align="center">
 
-### `while (alive) { learn(); build(); repeat(); }`
+### Programming & Web
 
-**Thanks for visiting my profile!** 💚
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="Python HTML CSS"/>
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux"/>
+
+</div>
+
+## `03 / AREAS OF INTEREST`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=48BFFF" />
+<img src="https://img.shields.io/badge/Web_Development-0A192F?style=for-the-badge&logo=html5&logoColor=48BFFF" />
+
+<img src="https://img.shields.io/badge/Cybersecurity-0A192F?style=for-the-badge&logo=kalilinux&logoColor=48BFFF" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0A192F?style=for-the-badge&logo=openai&logoColor=48BFFF" />
+
+</div>
+
+## `04 / CONNECT WITH ME`
+
+<div align="center">
+
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=48BFFF" />
+</a>
+<a href="https://t.me/YOUR-TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=48BFFF" />
+</a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM/">
+<img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=48BFFF" />
+</a>
+
+</div>
+
+## `05 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=050816&title_color=48BFFF&text_color=D6E8FF&icon_color=168BFF" alt="GitHub Stats" />
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=48BFFF&text_color=D6E8FF" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:168BFF,50:102A56,100:050816&height=110&section=footer" />
+
+**`while (alive) { learn(); build(); evolve(); }`**
+
+<sub>Designed by Matin 3tar · Powered by curiosity.</sub>
 
 </div>
